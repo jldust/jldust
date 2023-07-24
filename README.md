@@ -1,5 +1,5 @@
 ## Hi friend, I'm Jennifer! 👋 🌈 👩‍💻
-My name is Jennifer Dust and I'm a fullstack dev with a passion for open source. 🥳 
+My name is Jennifer and I'm a fullstack dev with a passion for open source. 🥳 
 
 ### 😄 Pronouns
 She/Her/They/Them
